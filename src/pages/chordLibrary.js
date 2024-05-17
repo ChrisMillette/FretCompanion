@@ -118,7 +118,6 @@ const ChordLibrary = () => {
 			</main>
 
 			<footer className="bg-white flex items-center justify-center w-full h-24 border-t">
-				{/* Footer content */}
 			</footer>
 		</div>
 	);
